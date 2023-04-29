@@ -17,6 +17,13 @@ h1{
     font-weight: 400;
     letter-spacing: 4px;
     color: blueviolet;
+    text-align: center;
+}
+
+h2{
+    font-family: Poppins;
+    font-weight: 250;
+    color: blueviolet;
 }
 
 table{
@@ -24,4 +31,17 @@ table{
     border-spacing: 2px;
     width: 700px;
     margin: 0 auto;
+    align-items: center;
 }
+
+td{
+    border-top: 2px beige;
+    font-family: 'Lucida Sans';
+    text-align: center;
+}
+
+.code{
+    background-color: aliceblue;
+    font-family: monospace;
+}
+
